@@ -1,0 +1,16 @@
+.mainContainer {
+  padding: 15px;
+}
+
+:host ::ng-deep .ck-editor__editable_inline {
+  min-height: 400px !important;
+}
+
+.addStoryBtn {
+  margin-bottom: 15px;
+  background: green;
+  color: #fff;
+  border-radius: 5px;
+  padding: 8px 14px;
+  margin-top: 35px;
+}
